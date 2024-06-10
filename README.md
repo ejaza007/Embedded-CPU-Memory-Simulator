@@ -2,13 +2,6 @@
 
  This project exemplifies low-level programming expertise by implementing core functionalities of a CPU, including instruction fetch, decode, and execution, as well as memory management. QuantumSim is designed for educational purposes and as a foundation for understanding the inner workings of computer systems and architecture.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Usage](#usage)
-- [Functions and Implementation Details](#functions-and-implementation-details)
-
 
 ## Introduction
 
